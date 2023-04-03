@@ -1,5 +1,6 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=mikavehns)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
+
 <!--
 **mikavehns/mikavehns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
